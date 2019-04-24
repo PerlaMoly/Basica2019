@@ -1,5 +1,5 @@
 package ar.edu.unlam.pb2.Disco;
-
+//prueba
 public class Disco {
 	private Double radioInterior;
 	private Double radioExterior;
